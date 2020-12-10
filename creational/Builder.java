@@ -1,4 +1,4 @@
-package com.spaceon.gms.workdistribution.creational;
+package creational;
 
 /**
  * 建造者模式  一般构造复杂对象使用

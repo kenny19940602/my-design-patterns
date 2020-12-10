@@ -1,4 +1,4 @@
-package com.spaceon.gms.workdistribution.creational;
+package creational;
 
 import java.util.Objects;
 

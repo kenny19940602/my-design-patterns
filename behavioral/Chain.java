@@ -1,4 +1,4 @@
-package com.spaceon.gms.workdistribution.behavioral;
+package behavioral;
 
 /**
  * 责任链模式

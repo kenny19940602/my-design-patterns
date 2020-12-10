@@ -1,4 +1,4 @@
-package com.spaceon.gms.workdistribution.structural;
+package structural;
 
 /**
  * 装饰模式 使用装饰模式之后将大大减少了子类的个数，让系统扩展起来更加方便，而且更容易维护，是取代继承复用的有效方式之一。

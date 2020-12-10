@@ -1,4 +1,4 @@
-package com.spaceon.gms.workdistribution.structural;
+package structural;
 
 /**
  * 外观模式

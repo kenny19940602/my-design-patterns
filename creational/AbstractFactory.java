@@ -1,4 +1,4 @@
-package com.spaceon.gms.workdistribution.creational;
+package creational;
 
 /**
  * 抽象工厂，扩展产品族容易(符合开闭原则) 扩展产品等级难(不符合开闭原则)
