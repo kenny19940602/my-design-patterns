@@ -3,7 +3,7 @@ package behavioral;
 /**
  * 状态模式 状态改变则行为不同
  */
-public class Mystate {
+public class MyState {
     public static void main(String[] args) {
         Context1 context = new Context1();
         context.setState(new ConcreteState(context));
